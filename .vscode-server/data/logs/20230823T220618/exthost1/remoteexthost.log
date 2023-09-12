@@ -1,0 +1,14 @@
+2023-08-23 22:06:21.697 [info] Extension host with pid 507 started
+2023-08-23 22:06:21.793 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-08-23 22:06:21.794 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-08-23 22:06:21.954 [info] Lock '/home/sebautista/.vscode-server/data/User/workspaceStorage/f0a45faef1aa3a8812ce6fb3be666fab/vscode.lock': Lock acquired.
+2023-08-23 22:06:22.796 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-08-23 22:06:22.816 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-08-23 22:06:22.817 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-08-23 22:06:23.089 [info] Eager extensions activated
+2023-08-23 22:06:23.091 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-08-23 22:06:23.091 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-08-24 05:18:51.739 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-08-24 05:21:21.695 [info] Extension host terminating: received terminate message from renderer
+2023-08-24 05:21:21.697 [info] Lock '/home/sebautista/.vscode-server/data/User/workspaceStorage/f0a45faef1aa3a8812ce6fb3be666fab/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-08-24 05:21:21.773 [info] Extension host with pid 507 exiting with code 0

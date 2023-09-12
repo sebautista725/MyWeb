@@ -1,0 +1,116 @@
+2023-08-23 22:06:18.545 [info] 
+
+
+
+
+2023-08-23 22:06:18.582 [info] Extension host agent started.
+2023-08-23 22:06:18.748 [info] [127.0.0.1][b5f937eb][ManagementConnection] New connection established.
+2023-08-23 22:06:20.229 [info] [127.0.0.1][5f3918b4][ExtensionHostConnection] New connection established.
+2023-08-23 22:06:20.527 [info] [127.0.0.1][5f3918b4][ExtensionHostConnection] <507> Launched Extension Host Process.
+2023-08-23 22:09:30.219 [info] Getting Manifest... ritwickdey.liveserver
+2023-08-23 22:09:31.092 [info] Installing extension: ritwickdey.liveserver
+2023-08-23 22:09:37.783 [warning] Extension signature verification failed with error 'ENOENT': ritwickdey.liveserver
+2023-08-23 22:10:03.031 [info] Extracted extension to file:///home/sebautista/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2023-08-23 22:10:04.442 [info] Rename failed because of EACCES: permission denied, rename '/home/sebautista/.vscode-server/extensions/.bfd52a3a-e72c-4cd4-8925-299a22572bfe' -> '/home/sebautista/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'. Deleted from extracted location {"$mid":1,"fsPath":"/home/sebautista/.vscode-server/extensions/.bfd52a3a-e72c-4cd4-8925-299a22572bfe","path":"/home/sebautista/.vscode-server/extensions/.bfd52a3a-e72c-4cd4-8925-299a22572bfe","scheme":"file"}
+2023-08-23 22:10:08.897 [error] Error while installing the extension: ritwickdey.liveserver
+2023-08-23 22:10:08.900 [error] Failed to install extension. ritwickdey.liveserver
+2023-08-23 22:10:08.901 [error] EACCES: EACCES: permission denied, rename '/home/sebautista/.vscode-server/extensions/.bfd52a3a-e72c-4cd4-8925-299a22572bfe' -> '/home/sebautista/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'
+    at Y.v (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:15087)
+    at async Y.extractUserExtension (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:12393)
+    at async H.v (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:18603)
+    at async H.y (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:20189)
+    at async H.h (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:18175)
+2023-08-23 22:10:09.905 [error] EACCES: EACCES: permission denied, rename '/home/sebautista/.vscode-server/extensions/.bfd52a3a-e72c-4cd4-8925-299a22572bfe' -> '/home/sebautista/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'
+    at Y.v (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:15087)
+    at async Y.extractUserExtension (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:12393)
+    at async H.v (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:18603)
+    at async H.y (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:20189)
+    at async H.h (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:18175)
+2023-08-23 22:10:24.823 [info] Getting Manifest... ritwickdey.liveserver
+2023-08-23 22:10:25.173 [info] Installing extension: ritwickdey.liveserver
+2023-08-23 22:10:38.659 [warning] Extension signature verification failed with error 'ENOENT': ritwickdey.liveserver
+2023-08-23 22:11:00.456 [info] Extracted extension to file:///home/sebautista/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2023-08-23 22:11:00.788 [info] Rename failed because of EACCES: permission denied, rename '/home/sebautista/.vscode-server/extensions/.d49ae64f-f811-4dda-8728-7c0d6395616a' -> '/home/sebautista/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'. Deleted from extracted location {"$mid":1,"fsPath":"/home/sebautista/.vscode-server/extensions/.d49ae64f-f811-4dda-8728-7c0d6395616a","path":"/home/sebautista/.vscode-server/extensions/.d49ae64f-f811-4dda-8728-7c0d6395616a","scheme":"file"}
+2023-08-23 22:11:05.270 [error] Error while installing the extension: ritwickdey.liveserver
+2023-08-23 22:11:05.273 [error] Failed to install extension. ritwickdey.liveserver
+2023-08-23 22:11:05.273 [error] EACCES: EACCES: permission denied, rename '/home/sebautista/.vscode-server/extensions/.d49ae64f-f811-4dda-8728-7c0d6395616a' -> '/home/sebautista/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'
+    at Y.v (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:15087)
+    at async Y.extractUserExtension (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:12393)
+    at async H.v (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:18603)
+    at async H.y (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:20189)
+    at async H.h (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:18175)
+2023-08-23 22:11:06.277 [error] EACCES: EACCES: permission denied, rename '/home/sebautista/.vscode-server/extensions/.d49ae64f-f811-4dda-8728-7c0d6395616a' -> '/home/sebautista/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'
+    at Y.v (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:15087)
+    at async Y.extractUserExtension (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:12393)
+    at async H.v (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:18603)
+    at async H.y (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:20189)
+    at async H.h (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:18175)
+2023-08-23 22:12:57.324 [info] Getting Manifest... ritwickdey.liveserver
+2023-08-23 22:12:57.643 [info] Installing extension: ritwickdey.liveserver
+2023-08-23 22:13:05.544 [warning] Extension signature verification failed with error 'ENOENT': ritwickdey.liveserver
+2023-08-23 22:13:28.396 [info] Extracted extension to file:///home/sebautista/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2023-08-23 22:13:28.726 [info] Rename failed because of EACCES: permission denied, rename '/home/sebautista/.vscode-server/extensions/.3765231b-422d-4d2c-916a-f724ab5fdf92' -> '/home/sebautista/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'. Deleted from extracted location {"$mid":1,"fsPath":"/home/sebautista/.vscode-server/extensions/.3765231b-422d-4d2c-916a-f724ab5fdf92","path":"/home/sebautista/.vscode-server/extensions/.3765231b-422d-4d2c-916a-f724ab5fdf92","scheme":"file"}
+2023-08-23 22:13:32.584 [error] Error while installing the extension: ritwickdey.liveserver
+2023-08-23 22:13:32.589 [error] Failed to install extension. ritwickdey.liveserver
+2023-08-23 22:13:32.589 [error] EACCES: EACCES: permission denied, rename '/home/sebautista/.vscode-server/extensions/.3765231b-422d-4d2c-916a-f724ab5fdf92' -> '/home/sebautista/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'
+    at Y.v (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:15087)
+    at async Y.extractUserExtension (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:12393)
+    at async H.v (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:18603)
+    at async H.y (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:20189)
+    at async H.h (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:18175)
+2023-08-23 22:13:33.592 [error] EACCES: EACCES: permission denied, rename '/home/sebautista/.vscode-server/extensions/.3765231b-422d-4d2c-916a-f724ab5fdf92' -> '/home/sebautista/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'
+    at Y.v (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:15087)
+    at async Y.extractUserExtension (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:12393)
+    at async H.v (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:18603)
+    at async H.y (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:20189)
+    at async H.h (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:151:18175)
+2023-08-23 22:36:20.483 [info] [127.0.0.1][5f3918b4][ExtensionHostConnection] The client has reconnected.
+2023-08-23 22:36:26.584 [info] [127.0.0.1][b5f937eb][ManagementConnection] The client has reconnected.
+2023-08-24 05:08:15.700 [info] [127.0.0.1][b5f937eb][ManagementConnection] The client has reconnected.
+2023-08-24 05:08:16.321 [info] [127.0.0.1][5f3918b4][ExtensionHostConnection] The client has reconnected.
+2023-08-24 05:09:41.048 [info] [127.0.0.1][b5f937eb][ManagementConnection] The client has reconnected.
+2023-08-24 05:09:41.415 [info] [127.0.0.1][5f3918b4][ExtensionHostConnection] The client has reconnected.
+2023-08-24 05:21:21.709 [info] [127.0.0.1][b5f937eb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-08-24 05:21:21.719 [error] Error: Throttler is disposed
+    at r.queue (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-24 05:21:21.722 [error] Error: Throttler is disposed
+    at r.queue (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-24 05:21:21.722 [error] Error: Throttler is disposed
+    at r.queue (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-24 05:21:21.723 [error] Error: Throttler is disposed
+    at r.queue (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-24 05:21:21.723 [error] Error: Throttler is disposed
+    at r.queue (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-24 05:21:21.723 [error] Error: Throttler is disposed
+    at r.queue (/home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /home/sebautista/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-24 05:21:21.818 [info] [127.0.0.1][5f3918b4][ExtensionHostConnection] <507> Extension Host Process exited with code: 0, signal: null.
